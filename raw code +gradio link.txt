@@ -63,3 +63,7 @@ demo.launch(share=True)
 
 
 ### gradio link ::-->  https://ffbc80b2f1d6ac3f69.gradio.live
+
+if gradio link doesn't work just rerun the code on colab
+
+
